@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Casa na Praia",
+      "description": "Projetado pelo Alexander Rodwell VI, o Vitra é exclusivo e sofisticado, com apenas 3 unidades, sendo 1 por andar. Todos compostos por hall privativo, sala, ampla varanda, cozinha integrada, área de serviço, lavabo e 3 suítes e tudo isso de frente para o mar."
+    },
+    {
+      "id": 2,
+      "title": "Apartamento Duplex Centro",
+      "description": "Apartamento uma única torre forma o Living Baroneza, que conta com uma estrutura interna completa, com área de lazer, fitness, festas e segurança."
+    },
+    {
+      "id": 3,
+      "title": "Loteamento Barão Geraldo",
+      "description": "Loteamento em Loteamento Residencial Jaburu (Barão Geraldo): Vista encantadora e definitiva. Lote em declive Exclusivo condomínio fechado com 108 lotes de 1.000 ms e rigoroso sistema de segurança. Bem vindo a vida que voce conquistou com o conforto de um bairro charmoso e sofisticado, Lazer com pista de cooper, salão de festas e heliporto."
+    },
+    {
+      "id": 4,
+      "title": "Apartamento na Planta",
+      "description": "Apartamento na planta: Seu futuro está traçado: sai aluguel, entra qualidade de vida. Tudo isso você pode conquistar no Parque Canto dos Bem Te Vis."
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": 5
+    }
+  ]
+}
