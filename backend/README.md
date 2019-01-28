@@ -1,22 +1,17 @@
 # Backend
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run project for development
 ```
 npm start
 ```
 
 ### Resources
-```
-http://localhost:3001/products
-
-```
+[http://localhost:3001/products]: http://localhost:3001/products
 
 ### Home
-```
-http://localhost:3001
-```
+[http://localhost:3001]: http://localhost:3001

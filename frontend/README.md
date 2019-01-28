@@ -1,6 +1,6 @@
 # Frontend
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
