@@ -24,3 +24,6 @@ npm run test
 ```
 npm run lint
 ```
+
+###  App running at
+Local: http://localhost:8080/

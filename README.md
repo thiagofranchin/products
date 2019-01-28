@@ -28,4 +28,4 @@ npm run serve
 ```
 
 ###  App running at
-Local: [http://localhost:8080/]: http://localhost:8080/
+Local: http://localhost:8080/
