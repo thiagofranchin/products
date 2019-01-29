@@ -30,5 +30,31 @@
       "image": "https://images.unsplash.com/photo-1481018085669-2bc6e4f00eed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "id": 5
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Gallinger",
+      "lastname": "Smith",
+      "pictureUrl": "https://www.nowilaymedowntosleep.org/wp-content/uploads/2017/06/Russ-Circle.png"
+    },
+    {
+      "id": 2,
+      "name": "Braian",
+      "lastname": "Shomorrow",
+      "pictureUrl": "https://tricky-photoshop.com/wp-content/uploads/2017/08/final-1.png"
+    },
+    {
+      "id": 3,
+      "name": "Ane",
+      "lastname": "Sociality",
+      "pictureUrl": "http://static1.squarespace.com/static/593c43df197aeae4e205ce0e/5a845174c83025363e4876d4/5b33eb382b6a28a3e66df66d/1530129284959/Shift+Headshot+-+Melissa+di+Fonzo+%28circle%29.png"
+    },
+    {
+      "id": 4,
+      "name": "Katerin",
+      "lastname": "Voiala",
+      "pictureUrl": "http://paigehaverstock.com/wp-content/uploads/2016/04/Paige-Face-Circle.png"
+    }
   ]
 }
